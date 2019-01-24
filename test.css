@@ -41,29 +41,13 @@ li{
 }
 
 #LeftNav img{
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    border: solid 8px black;
+
 }
 
 #LeftNav ul{
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    border: solid 8px black;
-
 }
 
 LeftNav h3{
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    border: solid 8px black;
-
 }
 
 #Content{
